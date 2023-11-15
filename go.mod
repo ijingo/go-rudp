@@ -1,4 +1,4 @@
-module github.com/enobufs/go-rudp
+module github.com/ijingo/go-rudp
 
 go 1.12
 
